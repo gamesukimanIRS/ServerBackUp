@@ -1,4 +1,8 @@
 # ServerBackUp
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/ServerBackUp/~)](https://poggit.pmmp.io/ci/gamesukimanIRS/ServerBackUp)
+
+[ダウンロード]()
+
 players、worlds、plugins、ops.txt、whitelist.txt、banned-players.txt、banned-ips.txtを定期的にバックアップします。  
 バックアップしたデータはconfigフォルダと同じ場所にバックアップした時間ごとに保存されています。  
 バックアップ間隔はconfigで分単位で設定できます。また、定期的バックアップをオフにすることもできます。  
