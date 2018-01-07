@@ -1,5 +1,5 @@
 # ServerBackUp
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/ServerBackUp/~)](https://poggit.pmmp.io/ci/gamesukimanIRS/ServerBackUp)
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/ServerBackUp/ServerBackUp)](https://poggit.pmmp.io/ci/gamesukimanIRS/ServerBackUp)
 
 [ダウンロード]()
 
