@@ -20,7 +20,7 @@ players、worlds、plugins、ops.txt、whitelist.txt、banned-players.txt、bann
 ogiwara様 - ファイルコピー機能参考
 
 ### ライセンス
-改造配布、二次配布、コードの無断コピー/転載、製作者偽りは断じて禁止です。  
+改造配布、二次配布、製作者偽りは断じて禁止です。  
 各ソースの著作権はgamesukimanIRSに帰属します。  
 また、製作者はソースを使用して発生した問題の責任は負い兼ねます。  
 製作者は勝手にこのレポジトリを削除する場合があります。  
